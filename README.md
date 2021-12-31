@@ -4,7 +4,7 @@
 
 Given a cookie log file in the following format:
 
-cookie,timestamp
+cookie,timestamp<br>
 AtY0laUfhglK3lC7,2018-12-09T14:19:00+00:00<br>
 SAZuXPGUrfbcn5UA,2018-12-09T10:13:00+00:00<br>
 5UAVanZf6UtGyKVS,2018-12-09T07:25:00+00:00<br>
